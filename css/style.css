@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@300;500;900&family=Kanit:ital,wght@0,400;1,700&family=Satisfy&display=swap");
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+body {
+	font-family: 'Cairo', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1, h2, h3 {
+	font-family: 'Kanit', sans-serif;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
